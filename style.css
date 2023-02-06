@@ -22,6 +22,7 @@ body {
 h1 {
   font-size: 3rem;
   margin: 0;
+  color: cornsilk;
 }
 
 h4 {
@@ -31,6 +32,7 @@ h4 {
 
 img {
   display: block;
+  width: 100%;
 }
 
 @media (min-width: 960px) {
